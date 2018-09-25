@@ -24,19 +24,19 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 3,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "pic"
+    "string": "300 word bio\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "DFDE82D3-AEBE-48E0-8289-6C4C9D8B7078",
+  "do_objectID": "5508E639-F6B4-426B-8B0E-DA6A88463069",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4AA288B4-C779-4813-A4B7-B2031725900B",
+    "do_objectID": "F3EF4712-6507-4006-9DD8-12709E034EF6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,13 +47,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F277D61A-6591-4B4E-A16B-23AED252E1AD",
-    "height": 52,
-    "width": 48,
-    "x": 95,
-    "y": 195
+    "do_objectID": "ACE763D6-7BC9-43CE-AB71-DC1F6AF988A7",
+    "height": 571,
+    "width": 248,
+    "x": 199,
+    "y": 109
   },
-  "glyphBounds": "{{0, 2}, {16, 12}}",
+  "glyphBounds": "{{0, 2}, {69, 10}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "pic",
+  "name": "300 word bio copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -69,13 +69,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AD09A02F-7622-4FF5-9698-7921C564E6A5",
+    "do_objectID": "DED91485-F86B-478E-A010-3A00A42A635C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D90ACCC7-B9AC-4AB8-9A5B-21ACF236B567",
+      "do_objectID": "5C32DA7E-F778-4FB5-8B21-EB11B1380070",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

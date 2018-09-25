@@ -49,8 +49,16 @@
       "id": "2429DAF7-A3EA-429C-A6DC-21FF9065BD95"
     },
     {
+      "class": "shapeGroup",
+      "id": "F73188A7-EFD3-410E-ACC7-C21D77A15A62"
+    },
+    {
       "class": "text",
       "id": "DFDE82D3-AEBE-48E0-8289-6C4C9D8B7078"
+    },
+    {
+      "class": "text",
+      "id": "5508E639-F6B4-426B-8B0E-DA6A88463069"
     }
   ],
   "name": "Bio",
