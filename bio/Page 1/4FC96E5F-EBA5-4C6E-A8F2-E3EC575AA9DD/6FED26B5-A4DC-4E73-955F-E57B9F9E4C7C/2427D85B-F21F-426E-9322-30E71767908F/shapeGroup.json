@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4E01E1BF-8FDE-46C1-BFF3-C1D0C33974D0",
+  "do_objectID": "2427D85B-F21F-426E-9322-30E71767908F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 543,
-    "width": 326,
+    "height": 565,
+    "width": 138,
     "x": 0,
     "y": 0
   },
@@ -27,15 +27,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "018D20AD-314D-4C52-A010-75FA78F6A8E8"
+      "class": "oval",
+      "id": "BF3E8DD3-594F-4BE0-A48D-3D6096E0843D"
     },
     {
-      "class": "shapePath",
-      "id": "3268C940-2141-4990-807A-E3D370BB3D79"
+      "class": "oval",
+      "id": "23477A95-371E-4739-B9DD-972ECB74BF44"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D7EFDCA-7C64-4FCD-B61D-5DAA4F08033B"
     }
   ],
   "name": "Mask",
@@ -83,7 +87,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }

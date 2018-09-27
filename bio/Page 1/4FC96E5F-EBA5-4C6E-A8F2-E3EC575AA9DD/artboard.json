@@ -49,12 +49,44 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "B44F38B0-64CF-43B5-8D2F-E4FBC855993B"
+      "class": "bitmap",
+      "id": "FCBCA0E4-2A36-4982-8FD3-20F27B459E07"
+    },
+    {
+      "class": "bitmap",
+      "id": "32D746E7-DA9F-41F0-B5F1-D2FB6E0813C5"
+    },
+    {
+      "class": "bitmap",
+      "id": "6D3B531F-C52F-4896-BB83-C5F760FDE09C"
+    },
+    {
+      "class": "bitmap",
+      "id": "91FF48A9-55CA-41C9-B982-EC66A48E1D5E"
     },
     {
       "class": "group",
-      "id": "5601BEC4-5953-41BF-BDDD-B2D80F0FB1D8"
+      "id": "52F45BCA-B82C-447D-83B2-4813EE262DBB"
+    },
+    {
+      "class": "bitmap",
+      "id": "08FEF85C-E655-4DE4-BB5A-28B842235A26"
+    },
+    {
+      "class": "group",
+      "id": "6FED26B5-A4DC-4E73-955F-E57B9F9E4C7C"
+    },
+    {
+      "class": "bitmap",
+      "id": "290D577D-64B7-4730-BBF1-6C5F8E83F345"
+    },
+    {
+      "class": "bitmap",
+      "id": "D2C2745F-BD98-4BF6-9697-3A280F3CE8B4"
+    },
+    {
+      "class": "bitmap",
+      "id": "BED8DC6A-FA76-4A83-A1E7-DBD319E841A2"
     }
   ],
   "name": "Mood Board",
@@ -78,6 +110,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

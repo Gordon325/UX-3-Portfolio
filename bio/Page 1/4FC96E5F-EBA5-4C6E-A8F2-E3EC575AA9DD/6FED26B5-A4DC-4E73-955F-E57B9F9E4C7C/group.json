@@ -1,7 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
-  "do_objectID": "80696BF0-E39C-421B-A50E-F1A84911CD2C",
+  "do_objectID": "6FED26B5-A4DC-4E73-955F-E57B9F9E4C7C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 167,
-    "width": 91,
-    "x": 46,
-    "y": 117
+    "height": 565,
+    "width": 138,
+    "x": 293.2933406199498,
+    "y": 202.3011534693461
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -29,18 +29,18 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E782DD60-57BE-477E-8803-C0DCE9C49CC2"
+      "id": "2427D85B-F21F-426E-9322-30E71767908F"
     },
     {
-      "class": "group",
-      "id": "8DFD174A-FC61-44ED-AB3A-2ECE40D97385"
+      "class": "bitmap",
+      "id": "C0B7708B-CB3B-4723-9AC1-95C3039EE4E1"
     }
   ],
-  "name": "Bitmap",
+  "name": "download",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -14,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
