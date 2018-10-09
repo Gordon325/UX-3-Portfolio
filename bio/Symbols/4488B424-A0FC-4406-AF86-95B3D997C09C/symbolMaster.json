@@ -1,0 +1,86 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D2576F35-E7F3-4324-87FA-3E2FD2D8D1D9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 96,
+  "do_objectID": "4488B424-A0FC-4406-AF86-95B3D997C09C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADD57F43-F619-4C95-8ED9-8D0945F5A506",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A672D420-C088-4D53-91C0-4D7B46058C7A",
+    "height": 35,
+    "width": 105,
+    "x": 280,
+    "y": -90
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5B64E91B-85FC-45EF-B959-10978C088169",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "896BFBA4-A207-481E-9704-BF493938FE40"
+    }
+  ],
+  "name": "orangeButtonHollow",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B8BC7CC-46D0-4540-A6AA-45AD193DD278",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CD22216A-5C44-4242-B17E-C751B187295F",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "710D1824-146E-495C-8050-CECA9F5C698C",
+    "guides": [
+    ]
+  }
+}

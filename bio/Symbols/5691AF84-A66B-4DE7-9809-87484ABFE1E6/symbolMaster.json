@@ -1,7 +1,15 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "857E3DB4-2BD6-4C1A-989F-E1A870A83F28",
+  "changeIdentifier": 97,
+  "do_objectID": "5691AF84-A66B-4DE7-9809-87484ABFE1E6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,55 +22,58 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 35,
+    "width": 105,
+    "x": 411,
+    "y": -157
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "416315E8-DE06-4539-82CB-D97B50A7A684"
-    },
-    {
-      "class": "artboard",
-      "id": "4FC96E5F-EBA5-4C6E-A8F2-E3EC575AA9DD"
-    },
-    {
-      "class": "artboard",
-      "id": "9067A5AD-B01C-456E-88D8-509FDB9F61DF"
+      "class": "shapeGroup",
+      "id": "2A00C996-E48C-4A2B-AE7B-C0010A365BB0"
     },
     {
       "class": "text",
-      "id": "A34E6888-D793-419B-9204-538B94FBCF21"
+      "id": "CBEB384E-5F6E-4C67-8E97-E97A74B4E5D6"
     }
   ],
-  "name": "Page 1",
+  "name": "orangeButtonText",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "symbolID": "2AA9C557-9CF4-48C3-94CB-45CF5B9CA18B",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -16,28 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AzoSans-Thin",
-              "size": 44
+              "name": "AzoSans-Regular",
+              "size": 22
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "Gordon G. Smith III"
+    "string": "Header Image\n(if one is used)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "5C0AC3F4-A096-42E9-AB5D-24CD389BB760",
+  "do_objectID": "50B77342-CD7F-4599-B0EE-8DB05B332B0B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8C9A75AA-F4F9-4AF0-9234-1985EB23FAEB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,12 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 377,
-    "x": 130,
-    "y": 20
+    "do_objectID": "F94A9839-3570-431A-BB73-BEE79AE20801",
+    "height": 56,
+    "width": 150,
+    "x": 231,
+    "y": 168
   },
-  "glyphBounds": "{{2, 10}, {371, 35}}",
+  "glyphBounds": "{{1, 5}, {147, 50}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Gordon G. Smith III",
+  "name": "Header Image (if one",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,11 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D5B7A44F-E778-4FC1-9711-23FD7D9BE2BF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E44AA07C-C663-4FFD-A7CD-B15EE7DDB0CD",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -85,13 +89,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AzoSans-Thin",
-            "size": 44
+            "name": "AzoSans-Regular",
+            "size": 22
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

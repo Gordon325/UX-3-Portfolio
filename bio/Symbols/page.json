@@ -1,7 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "857E3DB4-2BD6-4C1A-989F-E1A870A83F28",
+  "do_objectID": "90E2557C-664C-44FE-AA88-4C85C97F46FA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -461,
     "guides": [
     ]
   },
@@ -35,23 +35,47 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "416315E8-DE06-4539-82CB-D97B50A7A684"
+      "class": "symbolMaster",
+      "id": "930DD0EB-3AF4-4DDE-8EE9-7CCD71608F5C"
     },
     {
-      "class": "artboard",
-      "id": "4FC96E5F-EBA5-4C6E-A8F2-E3EC575AA9DD"
+      "class": "symbolMaster",
+      "id": "4488B424-A0FC-4406-AF86-95B3D997C09C"
     },
     {
-      "class": "artboard",
-      "id": "9067A5AD-B01C-456E-88D8-509FDB9F61DF"
+      "class": "symbolMaster",
+      "id": "15775B7A-5CD1-4EC8-A7E7-6F20DC8E1ECD"
     },
     {
-      "class": "text",
-      "id": "A34E6888-D793-419B-9204-538B94FBCF21"
+      "class": "symbolMaster",
+      "id": "3F268A7F-C8CB-401D-B158-4B6596399CA8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "423A63A3-C6E0-4FA6-AD5C-7B416DCA7427"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5691AF84-A66B-4DE7-9809-87484ABFE1E6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4FAC0110-3AB8-46AB-B2B3-4B5B9B24CE31"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BDC18B34-E142-4249-BF6E-9FB737B28404"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E33ACC73-AA23-41E5-91DE-39383C7E3F6B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "717128CF-30EF-440E-BD4D-30D7BF79DB82"
     }
   ],
-  "name": "Page 1",
+  "name": "Symbols",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,7 +90,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -395,
     "guides": [
     ]
   }

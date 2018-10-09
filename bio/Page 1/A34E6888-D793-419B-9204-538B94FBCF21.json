@@ -9,32 +9,32 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.203921568627451,
-            "green": 0.1686274509803922,
-            "red": 0.09411764705882353
+            "blue": 0.1385422945022583,
+            "green": 0.6503673195838928,
+            "red": 0.9617109894752502
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AzoSans-Thin",
-              "size": 44
+              "name": "AzoSans-Medium",
+              "size": 13
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Gordon G. Smith III"
+    "string": "Type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "5C0AC3F4-A096-42E9-AB5D-24CD389BB760",
+  "do_objectID": "A34E6888-D793-419B-9204-538B94FBCF21",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 377,
-    "x": 130,
-    "y": 20
+    "height": 16,
+    "width": 98,
+    "x": -282.5,
+    "y": -482
   },
-  "glyphBounds": "{{2, 10}, {371, 35}}",
+  "glyphBounds": "{{0, 3}, {98, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Gordon G. Smith III",
+  "name": "Type something",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -78,20 +78,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.203921568627451,
-          "green": 0.1686274509803922,
-          "red": 0.09411764705882353
+          "blue": 0.1385422945022583,
+          "green": 0.6503673195838928,
+          "red": 0.9617109894752502
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AzoSans-Thin",
-            "size": 44
+            "name": "AzoSans-Medium",
+            "size": 13
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

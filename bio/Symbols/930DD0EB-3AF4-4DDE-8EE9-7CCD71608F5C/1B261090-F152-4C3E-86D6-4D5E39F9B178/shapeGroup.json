@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5A50295E-F43C-4681-9431-507573710FAC",
+  "do_objectID": "1B261090-F152-4C3E-86D6-4D5E39F9B178",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "76E5158F-EA32-490D-AD23-D11B5A8C7F15",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "FC50DCBA-6FB8-4AAE-9039-33341D3DF64F",
+    "constrainProportions": false,
     "height": 35,
-    "width": 35,
-    "x": 55,
-    "y": 702
+    "width": 105,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,10 +31,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "DDF0C0B3-BAA6-4C89-AE4D-2D104573C03A"
+      "id": "FDAE526F-DF0F-4CD3-A617-573CAF0F27CF"
     }
   ],
-  "name": "Rectangle 2 Copy 9",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,23 +48,16 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5019607843137255,
-          "green": 0.4980392156862745,
-          "red": 0.4901960784313725
+          "blue": 0.1385422945022583,
+          "green": 0.6503673195838928,
+          "red": 0.9617109894752502
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "0EEA5B41-E540-48EB-8754-DD1CE3B97199",
-      "opacity": 0.9
-    },
-    "do_objectID": "04C86DE8-89FA-44F8-BD6B-6A20827A504A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -74,12 +65,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.1385422945022583,
+          "green": 0.6503673195838928,
+          "red": 0.9617109894752502
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

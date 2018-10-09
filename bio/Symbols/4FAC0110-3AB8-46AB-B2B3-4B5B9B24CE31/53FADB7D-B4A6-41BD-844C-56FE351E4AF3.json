@@ -9,35 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.203921568627451,
-            "green": 0.1686274509803922,
-            "red": 0.09411764705882353
+            "blue": 0.1385422945022583,
+            "green": 0.6503673195838928,
+            "red": 0.9617109894752502
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AzoSans-Thin",
-              "size": 44
+              "name": "AzoSans-Medium",
+              "size": 13
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Gordon G. Smith III"
+    "string": "Button Text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "5C0AC3F4-A096-42E9-AB5D-24CD389BB760",
+  "do_objectID": "53FADB7D-B4A6-41BD-844C-56FE351E4AF3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "50E3C0D8-8854-432B-9FFC-392082C11E87",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,12 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 377,
-    "x": 130,
-    "y": 20
+    "do_objectID": "AE4DD6FB-CF5A-4800-BB56-7517CFCD78CD",
+    "height": 16,
+    "width": 71,
+    "x": 17,
+    "y": 9
   },
-  "glyphBounds": "{{2, 10}, {371, 35}}",
+  "glyphBounds": "{{0, 3}, {71, 11}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Gordon G. Smith III",
+  "name": "Button Text Copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,29 +71,31 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D84D571E-4013-456C-99D7-55A5D253E5C0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6C044EFA-3234-46C8-9C57-7D007F930CD9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.203921568627451,
-          "green": 0.1686274509803922,
-          "red": 0.09411764705882353
+          "blue": 0.1385422945022583,
+          "green": 0.6503673195838928,
+          "red": 0.9617109894752502
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AzoSans-Thin",
-            "size": 44
+            "name": "AzoSans-Medium",
+            "size": 13
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

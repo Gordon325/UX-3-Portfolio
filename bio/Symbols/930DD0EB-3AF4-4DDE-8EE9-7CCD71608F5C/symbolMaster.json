@@ -1,7 +1,15 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "857E3DB4-2BD6-4C1A-989F-E1A870A83F28",
+  "changeIdentifier": 49,
+  "do_objectID": "930DD0EB-3AF4-4DDE-8EE9-7CCD71608F5C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +22,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 35,
+    "width": 105,
+    "x": 280,
+    "y": -157
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -26,43 +35,41 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "416315E8-DE06-4539-82CB-D97B50A7A684"
-    },
-    {
-      "class": "artboard",
-      "id": "4FC96E5F-EBA5-4C6E-A8F2-E3EC575AA9DD"
-    },
-    {
-      "class": "artboard",
-      "id": "9067A5AD-B01C-456E-88D8-509FDB9F61DF"
-    },
-    {
-      "class": "text",
-      "id": "A34E6888-D793-419B-9204-538B94FBCF21"
+      "class": "shapeGroup",
+      "id": "1B261090-F152-4C3E-86D6-4D5E39F9B178"
     }
   ],
-  "name": "Page 1",
+  "name": "orangeButton",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "symbolID": "A66DD482-9460-490C-923D-021070987F1F",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -26,18 +26,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 19,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Gordon G. Smith III"
+    "string": "H1 - Page Titles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "5C0AC3F4-A096-42E9-AB5D-24CD389BB760",
+  "do_objectID": "C6002120-56F7-4957-A83F-FF40109FDB15",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "249A0C59-F8FB-43CE-B80D-27EDE7FD269A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,12 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "F8471EE1-9A82-445E-AC2A-64DB45AA2693",
     "height": 55,
-    "width": 377,
-    "x": 130,
-    "y": 20
+    "width": 308,
+    "x": 145,
+    "y": 344
   },
-  "glyphBounds": "{{2, 10}, {371, 35}}",
+  "glyphBounds": "{{4, 10}, {302, 45}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Gordon G. Smith III",
+  "name": "H1 - Page Titles",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,11 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9BA998BE-30B4-46D8-A0B1-1433746FEB88",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "722D2E42-4735-4CA0-8A87-9111998217FB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
