@@ -99,6 +99,14 @@
     {
       "class": "shapeGroup",
       "id": "99BD2FC4-BEF4-42D0-9076-61973B51E004"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99240209-0556-4989-AC7F-B4E3250A91C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00DA279B-9EEE-4DAF-B0CA-F404863E2985"
     }
   ],
   "name": "StyleSheet",
