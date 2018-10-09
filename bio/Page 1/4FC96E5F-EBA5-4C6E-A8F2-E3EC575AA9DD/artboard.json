@@ -61,10 +61,6 @@
       "id": "6D3B531F-C52F-4896-BB83-C5F760FDE09C"
     },
     {
-      "class": "bitmap",
-      "id": "91FF48A9-55CA-41C9-B982-EC66A48E1D5E"
-    },
-    {
       "class": "group",
       "id": "52F45BCA-B82C-447D-83B2-4813EE262DBB"
     },
@@ -87,6 +83,10 @@
     {
       "class": "bitmap",
       "id": "BED8DC6A-FA76-4A83-A1E7-DBD319E841A2"
+    },
+    {
+      "class": "group",
+      "id": "2159D73E-DA55-44CD-A1E7-F79F18488285"
     }
   ],
   "name": "Mood Board",

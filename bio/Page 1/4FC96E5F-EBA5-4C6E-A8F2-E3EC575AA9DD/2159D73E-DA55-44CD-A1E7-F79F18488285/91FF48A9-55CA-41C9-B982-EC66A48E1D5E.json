@@ -1,7 +1,8 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
-  "do_objectID": "52F45BCA-B82C-447D-83B2-4813EE262DBB",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "91FF48A9-55CA-41C9-B982-EC66A48E1D5E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,36 +12,32 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 221,
-    "width": 232,
-    "x": 440,
-    "y": 44
+    "constrainProportions": true,
+    "height": 467,
+    "width": 700,
+    "x": -47,
+    "y": -120
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/fb0aeea7f9a3d3ace0a94b76ce3cdaba77ccd075.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "C392B1B1-0115-47A0-9DAD-847CA84BCC44"
-    },
-    {
-      "class": "bitmap",
-      "id": "7FFB47F3-9058-4D89-8577-754B1A222323"
-    }
-  ],
-  "name": "images",
+  "name": "download",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 29,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -1,0 +1,103 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2432162525284735,
+            "green": 0.2432162525284735,
+            "red": 0.2657844387755102
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AzoSans-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1764,
+        "location": 0
+      }
+    ],
+    "string": "Design has always been a part of my life. My mother was a freelance web and graphic designer in the late 90’s and early 2000’s. It was around that time that I took an interest in design as well. It began as a hobby creating homemade comic strips, logos, and websites. Prior to any formal education I designed my first fully custom website in the mid 2000’s for my uncles construction business. I enjoyed the entire design process from start to finish and decided to begin taking design classes shortly thereafter. In high school we were tasked with creating a culminating senior project to showcase our achievements throughout our four years there. I chose to create a multi page website using Adobe Dreamweaver and a small amount of code. The website was a hit among my parents and advisor, the only people to ever see it. After high school I choose to take a break from education and decided to work full time. During this time design became a hobby. I would create small things for friends and family members when I had time and began research more about html and css. After teaching myself some basic coding skills I began creating custom page layouts for the popular website Reddit, doing this really solidified a passion for web design. I was fortunate to have an employer who believed in allowing his employees to expand their strengths and interests. When he caught wind of my design hobby he began allotting time during the day for me to create a website for our business and many graphics for other businesses he owned. This support helped push me to pursue my degree in design. I am now 9 weeks away from graduating Magna Cum Laude with my BA in Visual Communication Design and certificate in User Experience Design from Eastern Washington University. \n"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "do_objectID": "EFA7F483-864C-43E5-93E7-5DA67C728336",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 296,
+    "width": 448,
+    "x": 145,
+    "y": 383
+  },
+  "glyphBounds": "{{0, 2}, {448, 292}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Design has always be",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2432162525284735,
+          "green": 0.2432162525284735,
+          "red": 0.2657844387755102
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AzoSans-Regular",
+            "size": 11
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}
